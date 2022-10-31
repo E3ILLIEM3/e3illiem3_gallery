@@ -36,3 +36,4 @@
 > * **data-gallery :** ใช้สำหรับตั้งกลุ่ม ถ้าตั้งเหมือนกันจะถูกรวมกลุ่มอัตโนมัติ
 > * **pic-path :** link รูปภาพ *จำเป็นต้องเหมือน **src** ใน tag **img**
 
+<img style="width: 100%" src="https://sv1.picz.in.th/images/2022/10/31/vQxigR.th.png">

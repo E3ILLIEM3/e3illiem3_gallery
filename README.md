@@ -5,8 +5,10 @@
 
 ### พัฒนาด้วย !
 
-> - **bootstrap v5**
-> - **Jquery v3.6.1**
+> * **bootstrap v5**
+> * **Jquery v3.6.1**
+> * **JavaScript**
+> * **CSS**
 
 ### วิธีเรียกใช้งาน
 **สามารถดูตัวอย่างจากไฟล์  [example.html](https://github.com/E3ILLIEM3/e3illiem3_gallery/blob/main/example.html)**

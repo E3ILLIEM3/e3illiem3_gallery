@@ -37,8 +37,8 @@
 > * **pic-path :** link รูปภาพ *จำเป็นต้องเหมือน **src** ใน tag **img**
 
 > #### รูปตัวอย่าง
-> [<img src="https://sv1.picz.in.th/images/2022/10/31/vQxigR.th.png">](https://sv1.picz.in.th/images/2022/10/31/vQxigR.png)
-> [<img src="https://sv1.picz.in.th/images/2022/10/31/vQxRC0.th.png">](https://sv1.picz.in.th/images/2022/10/31/vQxRC0.png)
-> [<img src="https://sv1.picz.in.th/images/2022/10/31/vQxg78.th.png">](https://sv1.picz.in.th/images/2022/10/31/vQxg78.png)
 > ![gallery1](https://user-images.githubusercontent.com/116717298/198963134-1e771a6a-739c-421e-870e-a5d3304e5ac9.png)
+> ![gallery2](https://user-images.githubusercontent.com/116717298/198963510-31483004-1c45-461e-bf27-7638a95508d4.png)
+> ![gallery3](https://user-images.githubusercontent.com/116717298/198963557-35a950d1-75cd-464f-a040-f05e6f53b4e6.png)
+
 

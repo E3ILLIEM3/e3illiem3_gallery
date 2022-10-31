@@ -9,8 +9,9 @@
 > - **Jquery v3.6.1**
 
 ### วิธีเรียกใช้งาน
+**สามารถดูตัวอย่างจากไฟล์  [example.html](https://github.com/E3ILLIEM3/e3illiem3_gallery/blob/main/example.html)**
+
 ```html
-<!--*สามารถดูตัวอย่างจากไฟล์ example.html-->
 
 <!--เรียกใช้ css-->
 <link rel="stylesheet" href="/_for_css/e3illiem3_gallery.css">
